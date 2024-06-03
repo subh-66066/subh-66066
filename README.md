@@ -3,7 +3,7 @@
 Welcome to my profile!
 
 - 👀 I’m interested in Machine Learning and Business Analytics.
-- 🌱 I’m currently learning Databricks and Az.
+- 🌱 I’m currently learning Databricks and Azure.
 - 💼 I’m working on projects at Bain.
 - 📫 How to reach me: [subhayan.das@bain.com](mailto:subhayan.das@bain.com)
 - 🔗 Connect with me on [LinkedIn](https://www.linkedin.com/in/subhayan-das-a880a21b6/)
